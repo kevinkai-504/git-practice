@@ -4,3 +4,5 @@ This is a modification.This line is from feature-a branch.
 這是 master 分支的改動，也是 conflict-demo 的改動
 
 推送測試
+This line is added from GitHub directly.
+update from GitHub
